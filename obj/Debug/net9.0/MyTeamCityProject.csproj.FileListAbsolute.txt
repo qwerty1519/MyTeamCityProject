@@ -1,0 +1,14 @@
+D:\Projects\MyTeamCityProject\bin\Debug\net9.0\MyTeamCityProject.exe
+D:\Projects\MyTeamCityProject\bin\Debug\net9.0\MyTeamCityProject.deps.json
+D:\Projects\MyTeamCityProject\bin\Debug\net9.0\MyTeamCityProject.runtimeconfig.json
+D:\Projects\MyTeamCityProject\bin\Debug\net9.0\MyTeamCityProject.dll
+D:\Projects\MyTeamCityProject\bin\Debug\net9.0\MyTeamCityProject.pdb
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\MyTeamCityProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\MyTeamCityProject.AssemblyInfoInputs.cache
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\MyTeamCityProject.AssemblyInfo.cs
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\MyTeamCityProject.csproj.CoreCompileInputs.cache
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\MyTeamCityProject.dll
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\refint\MyTeamCityProject.dll
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\MyTeamCityProject.pdb
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\MyTeamCityProject.genruntimeconfig.cache
+D:\Projects\MyTeamCityProject\obj\Debug\net9.0\ref\MyTeamCityProject.dll
